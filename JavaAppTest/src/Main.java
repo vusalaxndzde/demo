@@ -6,5 +6,7 @@ public class Main {
         for (int i = 0; i < 20; i++) {
             System.out.println(Math.pow(2, i));
         }
+        System.out.println("salam");
+        System.out.println("salam");
     }
 }
