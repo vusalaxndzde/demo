@@ -3,5 +3,8 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             System.out.println("Java Test App");
         }
+        for (int i = 0; i < 20; i++) {
+            System.out.println(Math.pow(2, i));
+        }
     }
 }
